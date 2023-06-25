@@ -1,0 +1,9 @@
+{
+    "configurations": [
+        {
+            "type": "gradle",
+            "name": "GradleRun",
+            "tasks": ["run"],
+        },
+    ]
+}

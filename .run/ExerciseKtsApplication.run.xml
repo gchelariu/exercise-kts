@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ExerciseKtsApplication" type="JetRunConfigurationType" nameIsGenerated="true">
+    <envs>
+      <env name="logging.level.root" value="info" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="com.gabriel.exercisekts.ExerciseKtsApplication" />
+    <module name="exercise-kts.main" />
+    <shortenClasspath name="ARGS_FILE" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
